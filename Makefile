@@ -1,4 +1,4 @@
-TESTS_INIT=tests/minimal_init.lua
+TESTS_INIT=tests/rell_test_init.lua
 TESTS_DIR=tests/
 
 .PHONY: test
